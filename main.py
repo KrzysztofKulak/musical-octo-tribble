@@ -7,6 +7,7 @@ print("different textdifferent textdifferent textdifferent textdifferent textdif
       "different textdifferent textdifferent textdifferent textdifferent textdifferent text"
       "different textdifferent textdifferent textdifferent textdifferent textdifferent text"
       "different textdifferent textdifferent textdifferent textdifferent textdifferent text"
+
       "Litwo! Ojczyzno moja! ty jesteś jak zdrowie:"
       """Ile cię trzeba cenić, ten tylko się dowie,
 Kto cię stracił. Dziś piękność twą w całej ozdobie
